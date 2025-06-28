@@ -1,4 +1,6 @@
-<h1 align="center">👋 Hi, I'm Mohamed Khaled</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7971E&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Mohamed+Khaled;Backend+Developer+%7C+Competitive+Programmer;Passionate+About+Backend+Development" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   🧑‍💻 Backend Developer | Passionate About Backend Development | Competitive Programmer
@@ -81,4 +83,3 @@
 ---
 
 > 🚀 *Always building, always learning, always sharing.*
-
