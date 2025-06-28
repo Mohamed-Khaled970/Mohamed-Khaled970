@@ -62,10 +62,6 @@
 
 ## 🔗 Connect With Me
 
-<p align="center">
-  <a href="https://github.com/Mohamed-Khaled970" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
   <a href="http://www.linkedin.com/in/mohamed-khaled-9ab281251" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
